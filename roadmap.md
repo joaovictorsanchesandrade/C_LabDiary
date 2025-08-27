@@ -5,12 +5,12 @@
 **Tópicos:**
 
 * História do C e compiladores (GCC/Clang no Linux)
+* Comentários e boas práticas
 * Estrutura básica de um programa
 * Tipos de dados: `int`, `float`, `char`, `double`
 * Variáveis e constantes
 * Operadores: aritméticos, relacionais, lógicos
 * Entrada e saída: `printf` e `scanf`
-* Comentários e boas práticas
 * Exercícios:
 
   * Hello World
